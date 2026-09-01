@@ -1,0 +1,7 @@
+com\stockpulse\DataJpaAndSeederTest.class
+com\stockpulse\AiCommerceAdvisorTest.class
+com\stockpulse\SuggestionApiTest.class
+com\stockpulse\AgenticLoopTest.class
+com\stockpulse\ProductApiTest.class
+com\stockpulse\CommerceStrategyTest.class
+com\stockpulse\EndToEndFlowTest.class
